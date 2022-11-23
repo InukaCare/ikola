@@ -1,0 +1,17 @@
+/.idea/
+/target/
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/libraries/Maven__org_springframework_security_spring_security_core_5_2_11_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_aop_5_2_15_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_beans_5_2_15_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_context_5_2_15_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_core_5_2_15_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_expression_5_2_15_RELEASE.xml
+.idea/libraries/Maven__org_springframework_spring_jcl_5_2_15_RELEASE.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/sonarlint/issuestore/index.pb
+.idea/uiDesigner.xml
+.idea/vcs.xml
